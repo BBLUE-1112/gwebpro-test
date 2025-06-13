@@ -35,8 +35,8 @@ export default function page() {
             <div className="col">
               <div className="blog_details_block">
                 <p>
-                  If you are familiar with SEO, you know it’s all about making
-                  your website visible to search engines. As technology
+                  If you are familiar with SEO, you know it&apos;s all about
+                  making your website visible to search engines. As technology
                   advances, SEO practices evolve, too. One of the latest
                   advancements in SEO is generative engine optimization (GEO),
                   which takes a new approach to ranking websites.
@@ -106,7 +106,7 @@ export default function page() {
                   Generative search engine optimization offers several
                   advantages over traditional SEO, especially in terms of
                   efficiency, scalability, and long-term effectiveness. Below,
-                  we’ll explore the key benefits of optimization through
+                  we&apos;ll explore the key benefits of optimization through
                   generative engines compared to traditional SEO.
                 </p>
                 <p>
@@ -158,16 +158,16 @@ export default function page() {
                   understanding the intent behind user queries and producing
                   content that matches what users are searching for. Traditional
                   SEO often revolves around keyword-heavy content, which may
-                  rank well in search engines but doesn’t always meet the needs
-                  of the user.
+                  rank well in search engines but doesn&apos;t always meet the
+                  needs of the user.
                 </p>
                 <p>
                   As a result, businesses may find that even with high rankings,
-                  their content isn’t engaging or converting users as
+                  their content isn&apos;t engaging or converting users as
                   effectively as it could. Generative engine optimization takes
                   a more data-driven approach to ensure that content is relevant
-                  to the user’s specific needs, resulting in a better overall
-                  user experience.
+                  to the user&apos;s specific needs, resulting in a better
+                  overall user experience.
                 </p>
                 <p>
                   <b>Continuous Adaptation</b>
@@ -179,8 +179,8 @@ export default function page() {
                   rankings. Optimization using generative AI engines has a
                   distinct advantage in this area, as it can automatically adapt
                   to new trends, search engine algorithm updates, and shifting
-                  user behavior. This means that businesses using GEO don’t have
-                  to worry about constantly adjusting their SEO strategy
+                  user behavior. This means that businesses using GEO don&apos;t
+                  have to worry about constantly adjusting their SEO strategy
                   manually.
                 </p>
                 <p>
@@ -203,16 +203,17 @@ export default function page() {
                 <p>
                   When deciding between generative search engine optimization
                   and traditional SEO, businesses need to consider their goals,
-                  resources, and long-term strategy. Here’s a breakdown of both
-                  approaches:
+                  resources, and long-term strategy. Here&apos;s a breakdown of
+                  both approaches:
                 </p>
                 <p>
                   Traditional SEO is still highly effective, especially for
                   businesses that have the time and resources to manage it. If
-                  your business is small, has fewer competitors, or doesn’t need
-                  to scale quickly, traditional SEO can be a more cost-effective
-                  option. This method allows for a more hands-on approach to
-                  optimizing content and connecting with your target audience.
+                  your business is small, has fewer competitors, or doesn&apos;t
+                  need to scale quickly, traditional SEO can be a more
+                  cost-effective option. This method allows for a more hands-on
+                  approach to optimizing content and connecting with your target
+                  audience.
                 </p>
                 <p>
                   However, if your business wants to scale faster, stay
@@ -239,8 +240,9 @@ export default function page() {
                   content that meets the needs of your users. At G Web Pro, we
                   specialize in both traditional and optimization using
                   generative AI engines services, helping businesses stay ahead
-                  in the digital space. Whatever your SEO needs, we’re here to
-                  help you improve your website’s visibility and drive results.
+                  in the digital space. Whatever your SEO needs, we&apos;re here
+                  to help you improve your website&apos;s visibility and drive
+                  results.
                 </p>
                 <p>
                   Welcome to my demo blog post! This post is designed to
@@ -253,8 +255,9 @@ export default function page() {
                 <h2>A Glimpse into Headings</h2>
 
                 <p>
-                  You'll notice we're using various heading sizes throughout
-                  this post. They help organize content and make it scannable.
+                  You&apos;ll notice we&apos;re using various heading sizes
+                  throughout this post. They help organize content and make it
+                  scannable.
                 </p>
 
                 <h3>Smaller Headings for Subsections</h3>
@@ -275,17 +278,17 @@ export default function page() {
 
                 <p>
                   This is a regular paragraph. Paragraphs are where the bulk of
-                  your blog content resides. They're great for explaining ideas,
-                  telling stories, and sharing information. You can write as
-                  much as you need within a paragraph, and the text will wrap
+                  your blog content resides. They&apos;re great for explaining
+                  ideas, telling stories, and sharing information. You can write
+                  as much as you need within a paragraph, and the text will wrap
                   nicely to fit the screen.
                 </p>
 
                 <p>
-                  Here's another paragraph, just to show how multiple paragraphs
-                  create distinct blocks of text. It's good practice to break up
-                  long sections of text into shorter, more digestible paragraphs
-                  to improve readability.
+                  Here&apos;s another paragraph, just to show how multiple
+                  paragraphs create distinct blocks of text. It&apos;s good
+                  practice to break up long sections of text into shorter, more
+                  digestible paragraphs to improve readability.
                 </p>
 
                 <hr />
@@ -335,12 +338,13 @@ export default function page() {
                 </p>
 
                 <p>
-                  Here's a link to <a href="https://www.google.com">Google</a>.
+                  Here&apos;s a link to{" "}
+                  <a href="https://www.google.com">Google</a>.
                 </p>
 
                 <p>
                   You can also link to specific sections within the same page,
-                  though for this short demo, it's not explicitly set up.
+                  though for this short demo, it&apos;s not explicitly set up.
                 </p>
 
                 <hr />
@@ -385,7 +389,8 @@ export default function page() {
                 </p>
 
                 <blockquote>
-                  "The only way to do great work is to love what you do."
+                  &apos;The only way to do great work is to love what you
+                  do.&apos;
                   <br />— Steve Jobs
                 </blockquote>
 
@@ -425,9 +430,10 @@ export default function page() {
                 <h2>Final Thoughts</h2>
 
                 <p>
-                  This demo post covers the most common HTML elements you'll
-                  encounter and use in a blog. By mastering these, you'll be
-                  well on your way to creating rich and engaging content.
+                  This demo post covers the most common HTML elements
+                  you&apos;ll encounter and use in a blog. By mastering these,
+                  you&apos;ll be well on your way to creating rich and engaging
+                  content.
                 </p>
 
                 <hr />
@@ -445,10 +451,10 @@ export default function page() {
                 <div className="">
                   <div className="has-btn-all d-flex justify-content-between">
                     {/* <div className="has-btn-grp"> */}
-                    <a href="/">&larr; Previous</a>
+                    <Link href="/blog/slug-previous">&larr; Previous</Link>
                     {/* </div> */}
                     {/* <div className="has-btn-grp"> */}
-                    <a href="/">Next &rarr;</a>
+                    <Link href="/blog/slug-next">Next &rarr;</Link>
                     {/* </div> */}
                   </div>
                 </div>
