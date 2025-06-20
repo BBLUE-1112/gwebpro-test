@@ -46,7 +46,7 @@ export default async function About() {
                       __html: pageData.about_banner_title,
                     }}*/}
                   <h1>
-                  Hi this is a Test Message v 1.0</h1>
+                  Hi this is a Test Message</h1>
                 </div>
                 <CheckScreenWidth setWidth={991}>
                   <div className="video-container">
